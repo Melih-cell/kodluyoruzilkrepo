@@ -1,2 +1,1 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![](https://univerlist.com/media/images/blog/landscape-1484222978-deadpool.jpg)
